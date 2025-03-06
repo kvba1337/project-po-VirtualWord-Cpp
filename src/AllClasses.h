@@ -1,16 +1,23 @@
 #pragma once
 
-#include "Animal.h"
-#include "Human.h"
-#include "Sheep.h"
-#include "Wolf.h"
-#include "Fox.h"
-#include "Turtle.h"
-#include "Antelope.h"
+// Core
+#include "Core/World.h"
+#include "Core/Organism.h"
+#include "Core/Animal.h"
+#include "Core/Plant.h"
+#include "Core/Human.h"
+#include "Core/Entities.h"
 
-#include "Plant.h"
-#include "Grass.h"
-#include "Dandelion.h"
-#include "Guarana.h"
-#include "Belladonna.h"
-#include "Hogweed.h"
+// Animals
+#include "Animals/Antelope.h"
+#include "Animals/Fox.h"
+#include "Animals/Sheep.h"
+#include "Animals/Turtle.h"
+#include "Animals/Wolf.h"
+
+// Plants
+#include "Plants/Belladonna.h"
+#include "Plants/Dandelion.h"
+#include "Plants/Grass.h"
+#include "Plants/Guarana.h"
+#include "Plants/Hogweed.h"

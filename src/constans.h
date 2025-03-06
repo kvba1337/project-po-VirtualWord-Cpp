@@ -2,14 +2,14 @@
 
 #define POS_UNDEFINED -1
 
-// colors
+// Colors
 #define BLUE 1
 #define GREEN 10
 #define RED 4
 #define WHITE 7
 #define YELLOW 6
 
-// keys
+// Keys
 #define KEY_ARROWS 224
 #define KEY_LEFT_ARROW 75
 #define KEY_RIGHT_ARROW 77
@@ -19,6 +19,6 @@
 #define KEY_R 114
 #define KEY_ESC 27
 
-// characters
+// Characters
 #define VERTICAL_LINE 179
 #define HORIZONTAL_LINE 196
